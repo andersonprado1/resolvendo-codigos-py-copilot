@@ -2,4 +2,4 @@
 string = input("insira um texto: ")
 num = int(input('Digite o número de repetições do textro: '))
 
-print(string*num)
+print(string * num + ' ')
